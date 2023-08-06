@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b63749fb.css",
-    "main.js": "/static/js/main.14f06dfd.js",
+    "main.js": "/static/js/main.085bc934.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/MbalyangHome.png": "/static/media/MbalyangHome.f142385aa6192095a0bc.png",
     "static/media/boatLifeStyle.png": "/static/media/boatLifeStyle.e832318e2fc164622329.png",
@@ -13,11 +13,11 @@
     "static/media/contact.avif": "/static/media/contact.d8cea596dde4a9ba1977.avif",
     "index.html": "/index.html",
     "main.b63749fb.css.map": "/static/css/main.b63749fb.css.map",
-    "main.14f06dfd.js.map": "/static/js/main.14f06dfd.js.map",
+    "main.085bc934.js.map": "/static/js/main.085bc934.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b63749fb.css",
-    "static/js/main.14f06dfd.js"
+    "static/js/main.085bc934.js"
   ]
 }
