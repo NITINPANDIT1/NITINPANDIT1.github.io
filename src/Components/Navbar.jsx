@@ -77,8 +77,16 @@ const Navbar = () => {
           <li>
            
             
-            <Button id="resume-button-1"   className="nav-link resume"colorScheme={"white"} onClick={myFun} >
-               <a href={pdf} download>Resume <span> <DownloadIcon/></span></a>
+            <Button id="resume-button-1"  className="nav-link resume"   colorScheme={"white"}  onClick={myFun}
+            
+           
+            as="a" 
+            href={pdf}
+            target="_blank" // Open link in a new tab
+            download
+            
+            >
+              Resume <DownloadIcon/>
              
              </Button>
            

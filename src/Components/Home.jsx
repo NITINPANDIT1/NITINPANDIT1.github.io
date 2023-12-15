@@ -66,8 +66,16 @@ const Home = () => {
               rel="noopener noreferrer"
             />
            
-            <Button id="resume-button-2" colorScheme={"cyan"} onClick={myFun}>  
-            <a href={pdf} download>Resume <span> <AttachmentIcon/></span></a>
+            
+
+            <Button id="resume-button-2" colorScheme={"cyan"} onClick={myFun}
+            as="a" 
+            href={pdf}
+            target="_blank" // Open link in a new tab
+            download
+            
+            >  
+            Resume <span> <AttachmentIcon/></span>
             </Button>
           </Stack>
         </Stack>

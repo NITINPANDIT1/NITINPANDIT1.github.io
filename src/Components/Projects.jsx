@@ -17,7 +17,7 @@ const Projects = () => {
     },
     {
       title: 'Green Paradise',
-      description: "An eco-tourism website showcasing exotic destinations and eco-friendly travel options. Developed using React, Redux, JSON, and Chakra UI. Collaborative project executed by a team of 5 members.",
+      description: "Gardening essentials E-commerce Web App. With a diverse range of  plants, fertilizers, tools, and more. Developed using React, Redux, JSON, and Chakra UI. Collaborative project executed by a team of 5 members.",
       techStacks: ['React','Redux',"JSON","Chakra UI"],
       githubLink: 'https://github.com/NITINPANDIT1/project--spiffy/tree/main',
       deploymentLink: 'https://fluffy-cocada-764c66.netlify.app/',
